@@ -26,7 +26,7 @@ export default function About() {
       title: "Berdirinya TechRanger",
       description:
         "Didirikan di Unismuh Makassar sebagai klub komputer yang berfokus pada penelitian teknologi",
-      icon: "/kalender.png",
+      icon: "/kalender.webp",
     },
     {
       year: "2025",
@@ -34,7 +34,7 @@ export default function About() {
       title: "Ekspansi Multi-Universitas",
       description:
         "Mulai menerima anggota dari berbagai universitas di Makassar",
-      icon: "/vector.png",
+      icon: "/vector.webp",
     },
     {
       year: "2025",
@@ -42,7 +42,7 @@ export default function About() {
       title: "Legalitas Resmi",
       description:
         "Telah Diakui oleh Universitas Muhammadiyah Makassar sebagai Studi Club resmi",
-      icon: "/vector2.png",
+      icon: "/vector2.webp",
     },
   ];
 
